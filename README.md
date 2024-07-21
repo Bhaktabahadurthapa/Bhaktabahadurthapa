@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhakta</h1>
-<h3 align="center">DevSecOps | Multi-Cloud | Docker | Jenkins | Ansible | Kubernetes | Terraform | GitOps</h3>
+<h3 align="center">DevSecOps | Multi-Cloud | Docker | Jenkins | Ansible | Kubernetes | Terraform | GitOps | GitLab </h3>
 <img align="center" alt="coding"width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaktabahadurthapa" alt="bhaktabahadurthapa" /></a> </p>
 
