@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 🤝 I’m looking for help with **Cloud DevOps**
+- 🤝 I’m looking for help with **Cloud DevOps, Automation**
 
-- 📝 I regularly write articles on [https://bhaktathapa.com.np/](https://bhaktathapa.com.np/)
-
-- 📫 How to reach me **Bhaktathapamgr5@gmail.com**
+- 📫 How to reach me **Thapabhakta794@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bhaktathapa/](https://www.linkedin.com/in/bhaktathapa/)
 
